@@ -1,0 +1,184 @@
+{
+  "version": 1,
+  "base_track": "輪舞-revolution",
+  "base_artist": "奥井雅美",
+  "createdAt": "2025-12-01T14:25:20.935626Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "輪舞 -REVOLUTION",
+      "artist": "Shoko Nakagawa",
+      "has_synced": true,
+      "path": "select/01_輪舞_-REVOLUTION_Shoko_Nakagawa.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "輪舞-revolution",
+      "artist": "奥井雅美",
+      "has_synced": true,
+      "path": "select/02_輪舞-revolution_奥井雅美.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "輪舞-revolution",
+      "artist": "奥井雅美",
+      "has_synced": true,
+      "path": "select/03_輪舞-revolution_奥井雅美.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "輪舞-revolution",
+      "artist": "春日 楠(C.V.小清水亜美)",
+      "has_synced": true,
+      "path": "select/04_輪舞-revolution_春日_楠(C.V.小清水亜美).lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "輪舞 -revolution-",
+      "artist": "春日楠 (小清水亜美)",
+      "has_synced": true,
+      "path": "select/05_輪舞_-revolution-_春日楠_(小清水亜美).lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "輪舞－revolution [red rose version]",
+      "artist": "Okui, Masami",
+      "has_synced": false,
+      "path": "select/06_輪舞-revolution_[red_rose_version]_Okui,_Masami.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "輪舞－revolution [red rose version]",
+      "artist": "奥井雅美",
+      "has_synced": false,
+      "path": "select/07_輪舞-revolution_[red_rose_version]_奥井雅美.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "輪舞-revolution",
+      "artist": "奥井雅美",
+      "has_synced": true,
+      "path": "select/08_輪舞-revolution_奥井雅美.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "輪舞-revolution",
+      "artist": "Okui, Masami",
+      "has_synced": true,
+      "path": "select/09_輪舞-revolution_Okui,_Masami.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "輪舞-revolution - Rondo-revolution",
+      "artist": "Masami Okui",
+      "has_synced": true,
+      "path": "select/10_輪舞-revolution_-_Rondo-revolution_Masami_Okui.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "-輪舞-revolution",
+      "artist": "Acid=Stone Valley",
+      "has_synced": false,
+      "path": "select/11_-輪舞-revolution_Acid=Stone_Valley.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "輪舞-revolution [red rose version] - rondo-revolution [red rose version]",
+      "artist": "Masami Okui",
+      "has_synced": false,
+      "path": "select/12_輪舞-revolution_[red_rose_version]_-_rondo-revolution_[red_rose_version]_Masami_Okui.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "輪舞-revolution",
+      "artist": "春日楠 starring 小清水亜美",
+      "has_synced": false,
+      "path": "select/13_輪舞-revolution_春日楠_starring_小清水亜美.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "輪舞-revolution",
+      "artist": "Okui, Masami",
+      "has_synced": true,
+      "path": "select/14_輪舞-revolution_Okui,_Masami.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "輪舞-revolution",
+      "artist": "奥井雅美",
+      "has_synced": true,
+      "path": "select/15_輪舞-revolution_奥井雅美.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "輪舞-revolution",
+      "artist": "奥井雅美",
+      "has_synced": true,
+      "path": "select/16_輪舞-revolution_奥井雅美.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "輪舞-revolution- -Self Cover Ver.-",
+      "artist": "奥井雅美",
+      "has_synced": false,
+      "path": "select/17_輪舞-revolution-_-Self_Cover_Ver.-_奥井雅美.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "輪舞 -REVOLUTION",
+      "artist": "中川 翔子",
+      "has_synced": false,
+      "path": "select/pl_01_輪舞_-REVOLUTION_中川_翔子.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "輪舞 -revolution",
+      "artist": "中川 翔子",
+      "has_synced": false,
+      "path": "select/pl_02_輪舞_-revolution_中川_翔子.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "輪舞 -revolution",
+      "artist": "中川 翔子",
+      "has_synced": false,
+      "path": "select/pl_03_輪舞_-revolution_中川_翔子.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "輪舞-revolution",
+      "artist": "中川 翔子",
+      "has_synced": false,
+      "path": "select/pl_04_輪舞-revolution_中川_翔子.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "輪舞-revolution",
+      "artist": "中川 翔子",
+      "has_synced": false,
+      "path": "select/pl_05_輪舞-revolution_中川_翔子.txt"
+    }
+  ]
+}
